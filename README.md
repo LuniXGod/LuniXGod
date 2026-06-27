@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Luni;Telegram+bot+developer;Osint+enjoyer;Seller;Vibecoding+lover" alt="typing">
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 ---
 

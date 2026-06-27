@@ -2,6 +2,8 @@
 
 <br>
 
+---
+
 ### <img src="https://cdn.simpleicons.org/codio/white" width="18"> Технологический стек
 
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black)

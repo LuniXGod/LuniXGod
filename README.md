@@ -41,4 +41,5 @@
 ### <img src="https://cdn.simpleicons.org/telegram/white" width="18"> Связь и контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/ModeAlIah)
-[![Telegram](https://img.shields.io/badge/Projects-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/FuckLuni)
+[![Telegram](https://img.shields.io/badge/Projects-ffffff?style=for-the-badge&logo=alienware&logoColor=black)](https://t.me/FuckLuni)
+[![WebSite](https://img.shields.io/badge/WebSite-ffffff?style=for-the-badge&logo=falcon&logoColor=black)](https://lunixgod.github.io/LunisBio)
